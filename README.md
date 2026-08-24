@@ -2,7 +2,7 @@
 
 ## 📥 Як встановити
 
-1. **Завантажте Minecraft Bedrock 1.21+** (бажано клон, щоб можна бвстановити як другу програму).  
+1. **[Завантажте Minecraft Bedrock 1.21+](https://mcpehub.org/download-mcpe/)** (бажано клон, щоб можна бвстановити як другу програму).  
 2. **[Завантажте патч‑файл tiers.bin](https://github.com/uzvarUA/uzvarUA/releases/download/v1.0.0-tiers/tiers.bin)** з будь‑якого джерела.  
 3. **[Завантажте MT Manager](https://mt-manager.en.uptodown.com/android)** з офіційних чи альтернативних джерел.  
 4. Відкрийте **MT Manager**.  
