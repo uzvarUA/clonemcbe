@@ -1,3 +1,6 @@
+![](img/image_1788193454539.jpeg)
+
+---
 # ✨ Vibrant Visuals для Minecraft Bedrock (Android)
 
 ## 📥 Як встановити
